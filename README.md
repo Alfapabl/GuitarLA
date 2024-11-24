@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a E-commerce of instruments
+User can add guitar and remove updating the cart in the top right
+Local storage is use to keep the items after refreshThis project is a simple e-commerce application for musical instruments, built using React and Vite.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Add and Remove Products: Users can easily add guitars to their cart or remove them as needed.
+Cart Management: The cart dynamically updates in real-time, displayed in the top-right corner of the interface.
+Persistent Data: Items in the cart are saved using local storage, ensuring they remain available even after a page refresh.
